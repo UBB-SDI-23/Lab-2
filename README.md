@@ -8,7 +8,7 @@
 
 ----
 
-Continue working on the application from the previous assignment. Push the changes to this repository.
+Continue working on the application from the previous assignment. Push your project to this repository.
 
 You will need to:
 - Add at least 2 more entities with at least `5` attributes each: you should have at least `3` entities in total, let's call them `E1`, `E2`, `E3`.
